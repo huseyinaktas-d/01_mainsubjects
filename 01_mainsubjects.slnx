@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="readme.md" />
+  </Folder>
   <Project Path="01_mainsubjects/01_mainsubjects.csproj" Id="855fa0f4-e50a-4d98-b0a6-3de9b66a0d60" />
   <Project Path="02_variables/02_variables.csproj" Id="2dd65f7b-e133-4d2f-83de-789e2c2f91ac" />
   <Project Path="03_Karar yapıları/03_Karar yapıları.csproj" Id="aa480804-f5c1-4100-86a5-f5c704fdc098" />
